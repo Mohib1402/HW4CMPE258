@@ -53,24 +53,6 @@ This project demonstrates small variations across multiple ML models using:
 
 ---
 
-## 📂 Folder Structure
-
-```
-
-├── PartA\_TeachableMachine/
-│   ├── AppleBananaOrange.zip
-│   ├── CatsVsDogs.zip
-│   ├── PoseStandSit.zip
-│   └── index.html (for local testing)
-├── PartB\_KerasHub/
-│   ├── easy\_image.ipynb
-│   ├── easy\_text.ipynb
-│   └── ... (etc)
-
-```
-
----
-
 ## 👨‍🎓 Author
 
 Mohib – M.S. Software Engineering, San José State University  
