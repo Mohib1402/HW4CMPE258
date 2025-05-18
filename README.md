@@ -9,17 +9,17 @@ This project demonstrates small variations across multiple ML models using:
 ## 📁 Part A – Teachable Machine Examples
 
 ### 🔸 1. Image Model: Apple vs Banana vs Orange
-- Model Zip: [`AppleBananaOrange.zip`](./AppleBananaOrange.zip)
+- Model Zip: [`AppleBananaOrange.zip`](https://github.com/Mohib1402/HW4CMPE258/blob/main/TeachableMachines/AppleBananaOrange.zip)
 - Trained via: [Teachable Machine – Image](https://teachablemachine.withgoogle.com/)
 - Classes: Apple, Banana, Orange
 
 ### 🔸 2. Image Model: Cats vs Dogs
-- Model Zip: [`CatsVsDogs.zip`](./CatsVsDogs.zip)
+- Model Zip: [`CatsVsDogs.zip`](https://github.com/Mohib1402/HW4CMPE258/blob/main/TeachableMachines/CatsVsDogs.zip)
 - Trained via: [Teachable Machine – Image](https://teachablemachine.withgoogle.com/)
 - Classes: Cat, Dog
 
 ### 🔸 3. Pose Model: Sitting vs Standing
-- Model Zip: [`PoseStandSit.zip`](./PoseStandSit.zip)
+- Model Zip: [`PoseStandSit.zip`](https://github.com/Mohib1402/HW4CMPE258/blob/main/TeachableMachines/PoseStandSit.zip)
 - Trained via: [Teachable Machine – Pose](https://teachablemachine.withgoogle.com/)
 - Classes: Sitting, Standing
 
